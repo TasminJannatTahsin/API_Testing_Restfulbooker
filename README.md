@@ -85,27 +85,31 @@ The report shown above contains:
 7. Average response time
 8. Request/test execution summary
 
-▶️ How to Run with Postman
+▶️ How to Run with Postman:
 
-1. Import the Collection
+1. Import the Collection:
 
-Open Postman.
+  1. Open Postman.
 
-Click Import.
+  2. Click Import.
 
-Select:CollectionFORAPI.postman_collection.json
+  3. Select:
 
-Click Import.
+     CollectionFORAPI.postman_collection.json
+
+  4. Click Import.
 
 2. Import the Environment
 
-Click Import.
+   1. Click Import.
 
-Select:EnvironmentForAPI.postman_environment.json
+   2. Select:
+    
+     EnvironmentForAPI.postman_environment.json
 
-Click Import.
+   3. Click Import.
 
-Select the imported environment from the environment dropdown.
+   4. Select the imported environment from the environment dropdown.
 
 🚀 Run with Newman:
 
