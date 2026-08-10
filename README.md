@@ -4,7 +4,8 @@ A Postman API testing project created to practice REST API testing, CRUD operati
 
 🔗 API Documentation:
 
-📚 Restful Booker API Documentation:https://restful-booker.herokuapp.com/apidoc/
+📚 Restful Booker API Documentation:
+https://restful-booker.herokuapp.com/apidoc/
 
 🎯 Project Objective
 
