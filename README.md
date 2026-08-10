@@ -5,6 +5,7 @@ A Postman API testing project created to practice REST API testing, CRUD operati
 🔗 API Documentation:
 
 📚 Restful Booker API Documentation:
+
 https://restful-booker.herokuapp.com/apidoc/
 
 🎯 Project Objective
@@ -35,14 +36,23 @@ The collection covers:
 The collection shown in the project contains these requests:
 
 CollectionforAPI
+
 │
+
 ├── GET  GetBookingIds
+
 ├── POST CreateBooking
+
 ├── GET  GetSpecificBookingId
+
 ├── POST CreateToken
+
 ├── PUT  UpdateBooking
+
 ├── PATCH UpdateBooking
+
 ├── DEL  DeleteBooking
+
 └── GET  GetSpecificBookingId
 
 🔐 Environment Variables:
@@ -100,6 +110,7 @@ newman run CollectionforAPI.postman_collection.json -e EnvironmentforAPI.postman
 ⭐ Project Purpose:
 
 This project was created for API testing practice and portfolio demonstration, using the Restful Booker API as a testing playground.
+
 👨‍💻 Author:
 
 Tasmin Jannat Tahsin
